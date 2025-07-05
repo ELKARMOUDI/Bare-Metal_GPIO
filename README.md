@@ -2,6 +2,7 @@
 
 ## Description  
 Blinks an LED on PA5 using direct register access (no HAL/LL libraries).  
+![E71D8326-0F6F-43B3-9C35-EC16BE7DE33B](https://github.com/user-attachments/assets/57616265-c84c-4b0f-878d-f362205d784d)
 
 ## Key Features  
 - **Register-level control**:  
